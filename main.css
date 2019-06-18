@@ -23,15 +23,28 @@ div#menu nav {
     display: flex;
 }
 
+
+
 nav li  {
     list-style: none;
-    padding: 1rem;
+    padding: 3rem;
 }
 
 nav li a {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     color: grey;
+}
+
+nav li a.p1 {
+    color:#008E96;
+    
+}
+
+nav li a.p2 {
+    background-color: #F58220;
+    color: white;
+    padding: .2em;
 }
 
 /*hero*/
