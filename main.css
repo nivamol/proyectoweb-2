@@ -1,6 +1,6 @@
 /*header*/
 header {
-
+    display: flex;
 }
  
 div#logo {
@@ -11,20 +11,21 @@ div#logo img {
 
 }
 
-div.menu {
+div#menu {
 
 }
 
-.menu nav {
-
+div#menu nav {
+    display: flex;
 }
 
 nav li  {
-
+    list-style: none;
+    padding: 1rem;
 }
 
 nav li a {
-
+    text-decoration: none;
 }
 
 /*hero*/
