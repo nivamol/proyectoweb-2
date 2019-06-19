@@ -35,7 +35,7 @@ nav li  {
 
 nav li a {
     text-decoration: none;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: grey;
 }
 
@@ -66,21 +66,25 @@ div.hero {
 }
 
 .hero h1 {
-    margin: 0;
+    margin: 0;  
+    font-family: 'Quicksand', sans-serif;
 }
 
 .hero h2 {
-    width: 60%;
+    width: 60%; 
+    font-family: 'Quicksand', sans-serif; 
 }
 
 .hero p {
-    width: 60%;
+    width: 60%; 
+    font-family: 'Quicksand', sans-serif; 
 }
 
 .hero button {
     width: 15%;
     padding: .5rem;
-    margin-top: 2em;
+    margin-top: 2em; 
+    font-family: 'Oswald', sans-serif; 
 }
 
 /*footer*/
