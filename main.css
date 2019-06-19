@@ -100,11 +100,18 @@ div.hero {
 /*footer*/
 
 footer {
-
+    
 }
 
 footer p {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: .8em;
+    margin: .5em;
+}
 
+footer p a {
+    color: #008E96;
 }
 
 
