@@ -87,6 +87,14 @@ div.hero {
     padding: .5rem;
     margin-top: 2em; 
     font-family: 'Oswald', sans-serif; 
+    color: #F58220;
+}
+
+.hero button:hover {
+    background-color: #008E96; 
+    transition-duration: 1.5s;
+    color: white;
+    border-radius: 10px;
 }
 
 /*footer*/
