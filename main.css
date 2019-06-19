@@ -70,15 +70,17 @@ div.hero {
 }
 
 .hero h2 {
-
+    width: 60%;
 }
 
 .hero p {
-
+    width: 60%;
 }
 
 .hero button {
-
+    width: 15%;
+    padding: .5rem;
+    margin-top: 2em;
 }
 
 /*footer*/
