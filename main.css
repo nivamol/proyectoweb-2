@@ -50,7 +50,9 @@ nav li a.p2 {
 /*hero*/
 
 section#hero {
-
+    background-image: url(images/hero.png);
+    background-size: cover;
+    height: 100vh;
 }
 
 div.hero {
@@ -58,7 +60,7 @@ div.hero {
 }
 
 .hero h1 {
-
+    margin: 0;
 }
 
 .hero h2 {
