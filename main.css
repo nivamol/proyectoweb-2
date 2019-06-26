@@ -41,6 +41,10 @@ nav li a {
     font-weight: lighter;
 }
 
+nav li a:hover {
+    color: #F58220;
+}
+
 nav li a.p1 {
     color:#008E96;
     
@@ -113,6 +117,8 @@ footer p {
 footer p a {
     color: #008E96;
 }
+
+
 
 
 
